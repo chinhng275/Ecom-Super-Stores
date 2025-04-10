@@ -1,5 +1,5 @@
 <h1 align="center">Super Store Sales Dashboard - Power BI Project</h>
-<div align="center"><img src="https://github.com/user-attachments/assets/3e3f334c-19c5-43ab-b263-220aaef7e3d2"></div>
+<div align="center"><img src="https://github.com/user-attachments/assets/f7111d1a-3694-4ee9-991c-b55d59bc0ebe"></div>
 
 ## Overview
 The E-commerce Super Store Sales Analysis project is a comprehensive analysis of sales performance, customer behavior, and operational metrics for a super store chain from 2016 to 2018. The project leverages SQL queries to extract and transform data from a relational database and uses Power BI to visualize the results in an interactive dashboard. This combination enables stakeholders to gain actionable insights into sales trends, customer satisfaction, payment patterns, seller performance, and geographical revenue distribution, facilitating data-driven decision-making to optimize business strategies.
@@ -71,7 +71,8 @@ Key Insight: SP consistently generates the highest revenue across all years, wit
 
 Key Insight: Most revenue is concentrated in South America, particularly Brazil, with states like SP and MG being the top contributors.
 
-![Demo 1](https://github.com/user-attachments/assets/ade4ab82-61ce-43cb-85a9-9ee1f0f36544)
+![Demo 1](https://github.com/user-attachments/assets/2d93f6d9-5fd6-433e-a3ea-b91df58bac26)
+
 
 ### Page 2: Customer and Operational Insights
 - Average Review Score by Customer (Line Chart)
@@ -94,7 +95,7 @@ Key Insight: "cds_dvds_musicals" has the highest average review score (4.64), wh
 
 Key Insight: Delivery success rates are generally high across states, with minimal failures. States like SP and MG show consistent delivery performance.
 
-![image](https://github.com/user-attachments/assets/e21f2391-692e-4772-b282-97577223545d)
+![Demo 2](https://github.com/user-attachments/assets/0745ca2e-ae6a-4682-9be8-9b92443f521e)
 
 ### Page 3: Sales and Category Insights
 - Total Order and Total Value by Day (Line Chart)
@@ -112,7 +113,7 @@ Key Insight: Both orders and sales value saw significant growth in late 2017, pe
 
 Key Insight: "bed_bath_table" leads with 3,425.11K in sales, followed by "health_beauty" (3,313K) and "computers_accessories" (3,170.66K). Categories like "home_appliances" and "agro_industry_and_commerce" have the lowest sales.
 
-![Demo 3](https://github.com/user-attachments/assets/32c28d53-2929-477d-9c6c-fd7ba3b89173)
+![Demo 3](https://github.com/user-attachments/assets/7a4da99a-c334-4933-bf8b-f8610d3659dd)
 
 ## Key Insights
 - Sales Trends: Sales and orders peaked in late 2017, likely due to seasonal demand (e.g., holiday season), but declined in 2018, indicating a potential need for new marketing strategies.
