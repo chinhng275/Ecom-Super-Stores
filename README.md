@@ -123,17 +123,6 @@ Key Insight: "bed_bath_table" leads with 3,425.11K in sales, followed by "health
 - Geographical Performance: SP and MG are the top revenue-generating states, highlighting the importance of focusing marketing efforts in these regions.
 - Customer Spending: High-value customers (e.g., "0da9212...") contribute significantly to revenue, indicating potential for targeted loyalty programs.
 
-## How to Use
-- SQL Queries: Run the SQL queries on a relational database (e.g., PostgreSQL) to extract data. Ensure the database schema matches the table names and columns referenced in the queries.
-- Power BI Dashboard: Import the extracted data into Power BI to visualize the results. Use slicers to filter data by year, state, or category, and drill down into specific data points for detailed analysis.
-- Actionable Insights: Use the insights to optimize inventory (focus on high-revenue categories), improve customer satisfaction (address low review scores), and target high-revenue regions (e.g., SP and MG).
-
-## How to Use the Dashboard
-- Filters: Use slicers to filter data by year, state, or product category for more granular insights.
-- Drill-Down: Click on specific data points (e.g., categories, states) to drill down into detailed metrics.
-- Trends Analysis: Use the line and area charts to identify seasonal trends and year-on-year performance.
-- Actionable Insights: Leverage insights from top sellers, customer reviews, and revenue distribution to optimize inventory, marketing, and logistics strategies.
-
 ## Future Enhancements
 - Add predictive analytics to forecast future sales trends.
 - Include customer segmentation to identify high-value customer groups.
